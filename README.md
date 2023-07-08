@@ -1,2 +1,2 @@
-# Charles-Ssengonzi
-Machine Learning Methods in 5G systems
+# AI/ML Application in 5G Systems
+RL, Deep RL, MORL, MODRL
