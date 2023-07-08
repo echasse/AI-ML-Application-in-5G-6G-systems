@@ -1,6 +1,6 @@
 ## AI/ML Application in 5G/6G Systems
 
-This project explores the field of Artificial Intelligence (AI) with a specific focus on Reinforcement Learning (RL). Reinforcement Learning is a type of machine learning where an agent learns to make decisions in an environment by taking actions and receiving feedback in the form of rewards. The need to use Reinforcement Learning to solve multi objective Optimization problems gave rise to the field of Multi-Objective Reinforcement Learning  (MORL). On this page, we'll share some of work and collaborations related to this topic.
+This project explores the field of Artificial Intelligence (AI) with a specific focus on Reinforcement Learning (RL). Reinforcement Learning is a type of machine learning where an agent learns to make decisions in an environment by taking actions and receiving feedback in the form of rewards. The need to use Reinforcement Learning to solve multi objective Optimization problems gave rise to the field of Multi-Objective Reinforcement Learning  (MORL). On this page, we'll share some of our work and collaborations related to this topic.
 
 ## Table of Contents
 
