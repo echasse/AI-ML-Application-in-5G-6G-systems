@@ -1,4 +1,4 @@
-AI/ML Application in 5G/6G Systems
+## AI/ML Application in 5G/6G Systems
 
 This project explores the field of Artificial Intelligence (AI) with a specific focus on Reinforcement Learning (RL). Reinforcement Learning is a type of machine learning where an agent learns to make decisions in an environment by taking actions and receiving feedback in the form of rewards. The need to use Reinforcement Learning to solve multi objective Optimization problems gave rise to the field of Multi-Objective Reinforcement Learning  (MORL). On this page, we'll share some of work and collaborations related to this topic.
 
@@ -7,28 +7,32 @@ This project explores the field of Artificial Intelligence (AI) with a specific 
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## About
 
-In this project, we delve into the concepts and algorithms of Reinforcement Learning, which enables machines to learn through interaction and feedback. We explore various RL algorithms, such as Q-Learning, Deep Q-Networks (DQN), and Proximal Policy Optimization (PPO) and their applications in 5G system. This project also aims to create new RL algorithms to solve Multi Objective RL problems in 5G systems.
+This project also aims to create new RL algorithms to solve Multi-Objective problems in 5G and Beyond systems. Specifically, we focus on areas such as resource allocations, scheduling, traffic predictions, and more, for Network Slicing and Virtualization. These areas play a crucial role in optimizing network performance and enabling efficient management of diverse applications and services in the context of evolving wireless communication systems. By applying RL techniques, we aim to develop intelligent solutions that can adaptively optimize network resources, make dynamic scheduling decisions, and accurately predict network traffic patterns. These advancements have the potential to improve the overall efficiency, reliability, and quality of service in 5G and Beyond systems. Through this project, we contribute to the growing field of AI/ML applications in the telecommunications industry, specifically targeting the challenges and opportunities presented by next-generation wireless networks.
 
 ## Features
 
 - Implementation of RL algorithms using popular frameworks such as TensorFlow or PyTorch.
-- Examples of RL applications in various domains, such as game playing, robotics, and control systems.
+- Examples of RL/Deep RL/MORL/MODRL applications in 5G and Beyond System including Resource allocation and management , Traffic forecasting and Prediction , Scheduling 
 - Explanation of fundamental RL concepts, including Markov Decision Processes (MDPs), value functions, and policy optimization.
+- Explanation of fundamental MORL concepts, including Multi-Objective Markov Decision Processes ( MOMDP), value iterations , value improvement , policy optimization etc.
+- Comparing MORL approaches with fundamental Classical methods and Evolutionary Methods such as Pareto Based Methods, Indicator Methods , Decomposition methods etc.
 
 ## Installation
 
-Provide instructions on how to install and set up the project. Include any dependencies or libraries required to run the code. You can also provide a step-by-step guide or a link to a detailed installation document.
+To install and set up this project, follow the steps below:
 
-## Usage
-
-Provide instructions on how to use the project and run the code. Explain the available options, configuration parameters, or command-line arguments. Include code snippets or examples to demonstrate how to use the RL algorithms in different scenarios.
+1. Ensure you have Python 3.7 or above installed on your system.
+2. Clone this repository to your local machine using the following command: git clone https://github.com/your-username/your-repository.git
+3. Navigate to the project directory:
+4. Install the required dependencies using pip: pip install -r requirements.txt
+5. This will install all the necessary Python packages specified in the `requirements.txt` file.
+6. You're now ready to use the project. Run the following command to start the application: python main.py
 
 ## Contributing
 
